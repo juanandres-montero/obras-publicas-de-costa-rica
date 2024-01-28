@@ -126,7 +126,7 @@ br {
     border-radius: 15px;
 }
 
-/*==================== MEDIA QUERIES ====================*/
+/*=================== MEDIA QUERIES ====================*/
 /* For small devices */
 @media screen and (max-width: 350px){
     .container{
