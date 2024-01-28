@@ -73,9 +73,15 @@ form input[type="submit"]:hover {
 }
 
 /* Other styles */
-h1, h2, h3 {
+h1 {
     font-family: "Poppins", sans-serif;
     color: #ffffff;
+}
+
+h2, h3 {
+    font-family: "Poppins", sans-serif;
+    color: #ffffff;
+    text-align: center;
 }
 
 a {
